@@ -7,6 +7,6 @@ it has mainly 3 pages
 2. Home page
 3. Player\
 
-![login page](/1.jpg =250x250)
+![login page]<img src="/1.jpg" width="48">
 ![home page](/2.jpg =250x250)
 ![player](/3.jpg =250x250)
